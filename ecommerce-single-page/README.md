@@ -2,6 +2,6 @@
 
 Run the project:
 
-- Install the dependencies: **npm install** ou **yarn install**
-- Fazer build do app para produção: **npm run build** ou **yarn build**
-- Rodar o app em modo de desenvolvimento: **npm start** ou **yarn start**
+- Install the dependencies: **npm install** or **yarn install**
+- Build the app to production mode: **npm run build** or **yarn build**
+- Run the app in development mode: **npm start** or **yarn start**
