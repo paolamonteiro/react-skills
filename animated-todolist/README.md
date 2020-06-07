@@ -7,7 +7,7 @@
 - Form Feedback;
 - Micro interaction.
 
-##### Para rodar o projeto:
+##### To run this project:
 
 1. Install necessary dependencies: **npm install** or **yarn install**
 2. Build the app in production mode: **npm run build** or **yarn build**
